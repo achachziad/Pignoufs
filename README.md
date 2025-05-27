@@ -34,14 +34,6 @@ Ce projet implémente un système de fichiers en espace utilisateur stocké dans
 - `pignoufs cat <fsname> <file>` : Affiche un fichier
 - `pignoufs fsck <fsname>` : Vérifie l'intégrité du système
 
-## Installation
-
-[Instructions pour compiler et exécuter le projet]
-
-## Utilisation
-
-[Exemples d'utilisation des commandes]
-
 ---
 
 Ce projet est développé dans le cadre du cours de Systèmes Avancés et respecte les spécifications données dans le sujet.
